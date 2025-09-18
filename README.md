@@ -13,11 +13,15 @@ I work with **SQL**, **Power BI** and **Excel** to perform data analysis, design
 
 ## 📊 Projects 
 
-### 1. **Business Insights 360**
+### 1. **Consumer goods Ad-Hoc requests**
+- Performed ad-hoc data analysis using SQL to answer 10+ business requests related to Finance, customers, supply chain and product performance.
+- **Tools**: MySQL, Excel 
+
+### 2. **Business Insights 360**
 - Designed an interactive dashboard to support business decisions across **finance**, **sales**, **marketing**, and **supply chain**.
 - **Tools**: Power BI, DAX  
 
-### 2. **Sales Analytics**
+### 3. **Sales Analytics**
 - Developed dynamic reports for **AtliQ Hardware**, analyzing sales trends across various channels.
 - **Tools**: Excel (for querying, transforming data, and in-depth analysis)  
 
